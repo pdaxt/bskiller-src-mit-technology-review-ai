@@ -1,1 +1,13 @@
-{"source_name":"Mit Technology Review Ai","repo":"bskiller-src-mit-technology-review-ai","story_count":35,"last_updated":"2026-03-25T07:40:28Z","months":["2026-03"]}
+{
+  "version": "1.0",
+  "source_name": "Mit Technology Review Ai",
+  "repo": "bskiller-src-mit-technology-review-ai",
+  "story_count": 17,
+  "last_updated": "2026-03-25T08:57:55Z",
+  "months": [
+    {
+      "month": "2026-03",
+      "story_count": 17
+    }
+  ]
+}
