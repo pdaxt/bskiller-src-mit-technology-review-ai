@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 4.4,
+  "career_angle": "If you work in symbolic AI or formal verification, Axplorer is worth a weekend install to see if the pattern-discovery approach generalizes beyond combinatorics. Don't pivot your career around it -- wait for peer-reviewed results on problems beyond Turán four-cycles before treating this as a real paradigm shift.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "MIT Technology Review is tier-1 tech journalism with editorial standards, not a blog repost",
+      "score": 8.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "One verified result (Turán four-cycles via PatternBoost) extrapolated into sweeping claims about Axplorer with zero new benchmarks or peer review",
+      "score": 5.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Free tool that runs locally is good in principle, but no independent verification that Axplorer reproduces PatternBoost's results or extends them",
+      "score": 6.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Startup launch-day exclusive with only the founder and their own research scientist as sources -- textbook earned media placement",
+      "score": 4.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "AI-for-math is a real field and DARPA expMath is real, but no independent mathematicians quoted validating this specific tool",
+      "score": 5.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Names real prior work and DARPA program but 'discover mathematical patterns that could unlock solutions' is vaporware-grade vague on what Axplorer actually does differently",
+      "score": 5.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Charton's Meta research is legit, but Axiom Math is brand new with zero shipped results of its own",
+      "score": 6.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
